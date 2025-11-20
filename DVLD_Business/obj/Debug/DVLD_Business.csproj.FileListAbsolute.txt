@@ -1,0 +1,18 @@
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_Business.dll
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.dll
+D:\C#\Integrated Projects\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.pdb
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_Business.dll
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.dll
+D:\C#\Integrated Projects\DVLD System\DVLD System Version2\DVLD_Business\obj\Debug\DVLD_Business.pdb
