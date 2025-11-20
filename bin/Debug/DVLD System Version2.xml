@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DVLD System Version2</name>
+    </assembly>
+    <members>
+        <member name="P:DVLD_System_Version2.ctrlAddOrEditPerson.Person">
+            <summary>
+            Any changes will be applied to this instance will change the UI form values.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.ctrlAddOrEditPerson.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlAddOrEditPerson.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlAddOrEditPerson.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DVLD_System_Version2.ctrlPersonDetails">
+            <summary>
+            Represent a control that displaies person information.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.ctrlPersonDetails.Person">
+            <summary>
+            Any changes applied to this instance it will be applied to the UI form.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.ctrlPersonDetails.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonDetails.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonDetails.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DVLD_System_Version2.ctrlPersonDetailsWithFilter">
+            <summary>
+            Search for a person with ID or NationalNo. to preview its information with the ability of editing it.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.ctrlPersonDetailsWithFilter.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonDetailsWithFilter.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonDetailsWithFilter.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DVLD_System_Version2.ctrlPersonFilter">
+            <summary>
+            Preview person information.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonFilter.#ctor">
+            <summary>
+            Initialize a new empty instance of object ctrlPersonFilterV2.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.ctrlPersonFilter.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonFilter.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.ctrlPersonFilter.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frm_Add_New_Driving_License_Application.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frm_Add_New_Driving_License_Application.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frm_Add_New_Driving_License_Application.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmAddOrEditPerson.#ctor">
+            <summary>
+            Any changes applied to instance values, it will be applied to UI form.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmAddOrEditPerson.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmAddOrEditPerson.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmAddOrEditPerson.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DVLD_System_Version2.frmAddOrEditUser">
+            <summary>
+            Adds or updates user info.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmAddOrEditUser.#ctor(DVLD_Business.clsUser)">
+            <summary>
+            
+            </summary>
+            <param name="User"></param>
+        </member>
+        <member name="P:DVLD_System_Version2.frmAddOrEditUser.User">
+            <summary>
+            Any changes will be applied to this instance it will affect the UI form.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmAddOrEditUser.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmAddOrEditUser.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmAddOrEditUser.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmEditApplicationType.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmEditApplicationType.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmEditApplicationType.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmEditTestType.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmEditTestType.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmEditTestType.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DVLD_System_Version2.frmMain">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmMain.#ctor(DVLD_Business.clsUser)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmManageApplicationTypes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManageApplicationTypes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManageApplicationTypes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManagePeople.RefreshInfo">
+            <summary>
+            Update users information.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmManagePeople.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManagePeople.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManagePeople.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmManageTestTypes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManageTestTypes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManageTestTypes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DVLD_System_Version2.frmManageUsers.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManageUsers.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmManageUsers.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmPersonDetails.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmPersonDetails.#ctor(DVLD_Business.clsPerson)">
+            <summary>
+            
+            </summary>
+            <param name="Person"></param>
+        </member>
+        <member name="F:DVLD_System_Version2.frmPersonDetails.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.frmPersonDetails.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System_Version2.frmPersonDetails.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DVLD_System_Version2.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:DVLD_System_Version2.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.administrator">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.arrow_left2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.arrow_right2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.calendar_week">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.Country">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.Email">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.Golden_BackGround">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.location">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.man__Gray_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.person_man">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.person_man_Add">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.person_man_Add1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.person_man_Add2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.person_woman_young">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.person_woman_young__Purple_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.personal_card">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.Phone">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.ProgrammingAdvices_Logo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.ProgrammingAdvices_Logo1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.purple_Image">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.Screenshot_2025_03_02_075245">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.search">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.user">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:DVLD_System_Version2.Properties.Resources.woman__1_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="F:DVLD_System.frmLogIn.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DVLD_System.frmLogIn.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DVLD_System.frmLogIn.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
