@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\clsmywfl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:clsmywfl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMyWFL.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\clsMyWFL.cs",
+              "RelativeDocumentMoniker": "clsMyWFL.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\clsMyWFL.cs",
+              "RelativeToolTip": "clsMyWFL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:23:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogIn.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmLogIn.cs",
+              "RelativeDocumentMoniker": "Forms\\frmLogIn.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmLogIn.cs*",
+              "RelativeToolTip": "Forms\\frmLogIn.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:21:26.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogIn.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmLogIn.cs",
+              "RelativeDocumentMoniker": "Forms\\frmLogIn.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmLogIn.cs [Design]*",
+              "RelativeToolTip": "Forms\\frmLogIn.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:21:16.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMain.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "Forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:20:55.663Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

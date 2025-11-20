@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\clsmywfl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:clsmywfl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\forms\\frmmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:forms\\frmmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frm add new driving license application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frm add new driving license application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|d:\\c#\\integrated projects\\dvld system\\dvld system version2\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF74FB2-B687-4F96-A8D5-A763BF05C26A}|DVLD_DataAccess\\DVLD_DataAccess.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF74FB2-B687-4F96-A8D5-A763BF05C26A}|DVLD_DataAccess\\DVLD_DataAccess.csproj|solutionrelative:dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlpersonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:ctrlpersonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlpersonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:ctrlpersonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmaddoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frmaddoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmaddoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frmaddoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrladdoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:ctrladdoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBC5DFD-885E-4606-8267-417120CC3484}|DVLD_Business\\DVLD_Business.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\dvld_business\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBC5DFD-885E-4606-8267-417120CC3484}|DVLD_Business\\DVLD_Business.csproj|solutionrelative:dvld_business\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF74FB2-B687-4F96-A8D5-A763BF05C26A}|DVLD_DataAccess\\DVLD_DataAccess.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF74FB2-B687-4F96-A8D5-A763BF05C26A}|DVLD_DataAccess\\DVLD_DataAccess.csproj|solutionrelative:dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlpersondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:ctrlpersondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlpersondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:ctrlpersondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBC5DFD-885E-4606-8267-417120CC3484}|DVLD_Business\\DVLD_Business.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\dvld_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBC5DFD-885E-4606-8267-417120CC3484}|DVLD_Business\\DVLD_Business.csproj|solutionrelative:dvld_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrladdoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F3E9-B852-474A-8535-674AF7BC56AC}|DVLD System Version2.csproj|solutionrelative:ctrladdoreditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.resx",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.resx",
+              "RelativeDocumentMoniker": "Forms\\frmMain.resx",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.resx",
+              "RelativeToolTip": "Forms\\frmMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-27T11:28:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMyWFL.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\clsMyWFL.cs",
+              "RelativeDocumentMoniker": "clsMyWFL.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\clsMyWFL.cs",
+              "RelativeToolTip": "clsMyWFL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:30:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmLogIn.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmLogIn.cs",
+              "RelativeDocumentMoniker": "frmLogIn.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmLogIn.cs",
+              "RelativeToolTip": "frmLogIn.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:49:13.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLogIn.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmLogIn.cs",
+              "RelativeDocumentMoniker": "frmLogIn.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\frmLogIn.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\frmLogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:49:05.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ctrlPersonFilter.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlPersonFilter.cs",
+              "RelativeDocumentMoniker": "ctrlPersonFilter.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlPersonFilter.cs",
+              "RelativeToolTip": "ctrlPersonFilter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwHwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:07:27.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ctrlPersonFilter.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlPersonFilter.cs",
+              "RelativeDocumentMoniker": "ctrlPersonFilter.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\ctrlPersonFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\ctrlPersonFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:07:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm Add New Driving License Application.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frm Add New Driving License Application.cs",
+              "RelativeDocumentMoniker": "frm Add New Driving License Application.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\frm Add New Driving License Application.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\frm Add New Driving License Application.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:03:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ctrlPersonDetailsWithFilter.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlPersonDetailsWithFilter.cs",
+              "RelativeDocumentMoniker": "ctrlPersonDetailsWithFilter.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlPersonDetailsWithFilter.cs",
+              "RelativeToolTip": "ctrlPersonDetailsWithFilter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:53:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ctrlPersonDetailsWithFilter.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlPersonDetailsWithFilter.cs",
+              "RelativeDocumentMoniker": "ctrlPersonDetailsWithFilter.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\ctrlPersonDetailsWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\ctrlPersonDetailsWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:50:19.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAddOrEditUser.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmAddOrEditUser.cs",
+              "RelativeDocumentMoniker": "frmAddOrEditUser.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmAddOrEditUser.cs",
+              "RelativeToolTip": "frmAddOrEditUser.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAApwMsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:41:55.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAddOrEditUser.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmAddOrEditUser.cs",
+              "RelativeDocumentMoniker": "frmAddOrEditUser.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\frmAddOrEditUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\frmAddOrEditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:41:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccess\\clsUserData.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "DVLD_DataAccess\\clsUserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:27:56.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "DVLD_Business\\clsUser.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_Business\\clsUser.cs",
+              "RelativeToolTip": "DVLD_Business\\clsUser.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADgv3kAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:27:36.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccess\\clsPersonData.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "DVLD_DataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:52:54.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMain.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.cs",
+              "RelativeToolTip": "Forms\\frmMain.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAlwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:39:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMain.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\Forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "Forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:36:23.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_Business\\clsPerson.cs",
+              "RelativeDocumentMoniker": "DVLD_Business\\clsPerson.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\DVLD_Business\\clsPerson.cs",
+              "RelativeToolTip": "DVLD_Business\\clsPerson.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:06:45.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ctrlAddOrEditPerson.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlAddOrEditPerson.cs",
+              "RelativeDocumentMoniker": "ctrlAddOrEditPerson.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlAddOrEditPerson.cs",
+              "RelativeToolTip": "ctrlAddOrEditPerson.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:58:27.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ctrlAddOrEditPerson.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\ctrlAddOrEditPerson.cs",
+              "RelativeDocumentMoniker": "ctrlAddOrEditPerson.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\ctrlAddOrEditPerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\ctrlAddOrEditPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:58:24.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddOrEditPerson.cs",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmAddOrEditPerson.cs",
+              "RelativeDocumentMoniker": "frmAddOrEditPerson.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmAddOrEditPerson.cs",
+              "RelativeToolTip": "frmAddOrEditPerson.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:58:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAddOrEditPerson.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Integrated Projects\\DVLD System\\DVLD System Version2\\frmAddOrEditPerson.cs",
+              "RelativeDocumentMoniker": "frmAddOrEditPerson.cs",
+              "ToolTip": "D:\\C#\\Integrated Projects\\DVLD System Version2\\frmAddOrEditPerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD System Version2\\frmAddOrEditPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:58:06.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
